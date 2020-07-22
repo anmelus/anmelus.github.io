@@ -10,7 +10,3 @@ Most of the games on this backlog will take me days to fully complete; I tend to
 If you want to suggest a game for me to play, just ask if I have already played it when I am live on [Twitch](https://twitch.tv/anmelus), if I like the game I might add it here or just play it on the spot!
 
 * In the future, I may append this tracker to include information about every single game I have played + my personal review and score.
-
-### Credit
-
-I had to take lots of code from HDVinnie's github page. I just used this project to study html + css and better understand the basics of web development. I am not profiting or benefitting off of this work in any way and I am just using the code to track what games I am planning to play next because I have been using a notepad my whole life!
