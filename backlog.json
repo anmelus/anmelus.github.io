@@ -1,6 +1,5 @@
 {
   "backlog": [
-	{"Name": "Ace Attorney Investigations", "Platform": "Mobile", "Runnable": "Yes", "Progress": "50%", "Streamable": "No"},
 	{"Name": "Assassin's Creed Odyssey", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Assassin's Creed Origins", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Assassin's Creed Syndicate", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
@@ -11,15 +10,12 @@
 	{"Name": "CrossCode", "Platform": "PC", "Runnable": "Yes", "Progress": "Almost done", "Streamable": "Yes"},
 	{"Name": "Dark Souls 1", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Dark Souls 3", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
-	{"Name": "Death Stranding", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
-	{"Name": "Detroit Become Human", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Dishonored 2", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Dishonored DotO", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Deus Ex Human Revolution", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Dragon Quest XI", "Platform": "PC", "Runnable": "Yes", "Progress": "45%", "Streamable": "Yes"},
 	{"Name": "Fallout 4", "Platform": "PC", "Runnable": "Yes", "Progress": "30%", "Streamable": "Yes"},
 	{"Name": "Final Fantasy VI", "Platform": "PC", "Runnable": "Yes", "Progress": "Might Restart", "Streamable": "Yes"},
-	{"Name": "Final Fantasy VIIR", "Platform": "PS4", "Runnable": "Yes", "Progress": "Started", "Streamable": "Yes"},
 	{"Name": "Final Fantasy XIII", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Maybe"},
 	{"Name": "Fire Emblem Series", "Platform": "Many", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Maybe"},
 	{"Name": "Ghost of Tsushima", "Platform": "PS4", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
