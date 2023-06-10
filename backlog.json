@@ -1,12 +1,11 @@
 {
   "backlog": [
 	{"Name": "Breathe of the Wild", "Platform": "Switch", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
-	{"Name": "Call of Duty(s)", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "CrossCode", "Platform": "PC", "Runnable": "Yes", "Progress": "Almost done", "Streamable": "Yes"},
 	{"Name": "Dark Souls 3", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Dishonored 2", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Dishonored DotO", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
-	{"Name": "Deus Ex Human Revolution", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
+	{"Name": "F.E.A.R.", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Dragon Quest XI", "Platform": "PC", "Runnable": "Yes", "Progress": "45%", "Streamable": "Yes"},
 	{"Name": "Fallout 4", "Platform": "PC", "Runnable": "Yes", "Progress": "30%", "Streamable": "Yes"},
 	{"Name": "Final Fantasy VI", "Platform": "PC", "Runnable": "Yes", "Progress": "Might Restart", "Streamable": "Yes"},
@@ -16,7 +15,6 @@
 	{"Name": "Metal Gear IV", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Metal Gear V", "Platform": "PC", "Runnable": "Yes", "Progress": "55%", "Streamable": "Yes"},
 	{"Name": "Mass Effect Andromeda", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
-	{"Name": "Muv Luv", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "No"},
 	{"Name": "NieR Automata", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "The Nonary Games", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Octopath Traveler", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Maybe"},
