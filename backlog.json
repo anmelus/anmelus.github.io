@@ -1,6 +1,6 @@
 {
   "backlog": [
-	{"Name": "Breathe of the Wild", "Platform": "Switch", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
+	{"Name": "Breath of the Wild", "Platform": "Switch", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "CrossCode", "Platform": "PC", "Runnable": "Yes", "Progress": "Almost done", "Streamable": "Yes"},
 	{"Name": "Dark Souls 3", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Dishonored 2", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
@@ -24,7 +24,6 @@
 	{"Name": "Sekiro", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Shadow of the Tomb Raider", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Skyrim", "Platform": "PC", "Runnable": "Yes", "Progress": "45%", "Streamable": "Yes"},
-	{"Name": "Super Mario Odyssey", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Tales of Berseria", "Platform": "PC", "Runnable": "Yes", "Progress": "15%", "Streamable": "Maybe"},
 	{"Name": "Witcher Series", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"}
   ]
