@@ -1,10 +1,13 @@
 {
   "backlog": [
 	{"Name": "Breath of the Wild", "Platform": "Switch", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
+	{"Name": "Baldur's Gate 3", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "CrossCode", "Platform": "PC", "Runnable": "Yes", "Progress": "Almost done", "Streamable": "Yes"},
+	{"Name": "Cyberpunk", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Dark Souls 3", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Dishonored 2", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Dishonored DotO", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
+	{"Name": "Elden Ring", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "F.E.A.R.", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Dragon Quest XI", "Platform": "PC", "Runnable": "Yes", "Progress": "45%", "Streamable": "Yes"},
 	{"Name": "Fallout 4", "Platform": "PC", "Runnable": "Yes", "Progress": "30%", "Streamable": "Yes"},
