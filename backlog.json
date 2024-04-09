@@ -4,22 +4,16 @@
 	{"Name": "Baldur's Gate 3", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "CrossCode", "Platform": "PC", "Runnable": "Yes", "Progress": "Almost done", "Streamable": "Yes"},
 	{"Name": "Dark Souls", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
-	{"Name": "Dishonored 2", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Dragon Quest XI", "Platform": "PC", "Runnable": "Yes", "Progress": "45%", "Streamable": "Yes"},
 	{"Name": "Fallout 4", "Platform": "PC", "Runnable": "Yes", "Progress": "30%", "Streamable": "Yes"},
 	{"Name": "Final Fantasy VI", "Platform": "PC", "Runnable": "Yes", "Progress": "Might Restart", "Streamable": "Yes"},
-	{"Name": "Final Fantasy XIII", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Maybe"},
 	{"Name": "Mass Effect", "Platform": "PC", "Runnable": "Yes", "Progress": "10%", "Streamable": "Yes"},
 	{"Name": "Metal Gear", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "NieR Automata", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
-	{"Name": "The Nonary Games", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
-	{"Name": "Octopath Traveler", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Maybe"},
 	{"Name": "Persona Series", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Red Dead Redemption 2", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
-	{"Name": "Rise of the Tomb Raider", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Skyrim", "Platform": "PC", "Runnable": "Yes", "Progress": "45%", "Streamable": "Yes"},
 	{"Name": "Tales of Berseria", "Platform": "PC", "Runnable": "Yes", "Progress": "15%", "Streamable": "Maybe"},
-	{"Name": "Witcher Series", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"},
 	{"Name": "Fire Emblem", "Platform": "PC", "Runnable": "Yes", "Progress": "N/A", "Streamable": "Yes"}
   ]
 }
