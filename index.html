@@ -123,6 +123,45 @@
       </td>
     </tr>
 
+    <tr onmouseout="leds_stop()" onmouseover="leds_start()">
+      <td style="padding:16px;width:20%;vertical-align:middle">
+        <div class="one" style="text-align: center;">
+          <div class="two" id='leds_image' style="text-align: center;">
+            <video width="70%" muted autoplay loop>
+              <source src="images/leds.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+          <img src='images/LED_tower.png' width="70%">
+        </div>
+        <script type="text/javascript">
+          function leds_start() {
+            document.getElementById('leds_image').style.opacity = "1";
+          }
+    
+          function leds_stop() {
+            document.getElementById('leds_image').style.opacity = "0";
+          }
+    
+          // Initialize with the video hidden
+          leds_stop();
+        </script>
+      </td>
+      <td style="padding:8px;width:80%;vertical-align:middle">
+        <a href="https://github.com/anmelus/LED-PCB-Board">
+          <papertitle>LED Printed Circuit Board</papertitle>
+        </a>
+        <br>
+        <strong>Melvin Orichi Socana</strong>
+        <br>
+        <em>EE 256</em>, 2022
+        <p>
+          Designed and developed a custom LED printed circuit board from PCB creation in KiCAD to writing integrated control software.
+        </p>
+      </td>
+    </tr>
+    
+
     <tr>
       <td style="padding:16px;width:20%;vertical-align:middle">
         <div class="one">
